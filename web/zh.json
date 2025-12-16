@@ -69,14 +69,14 @@
           "text": "下载 {prismLink}，为 1.21.10 设置一个新的 {fabricLink} 配置文件，并安装 Fabric API 模组。",
           "note": "在我们自定义启动器发布之前，建议使用 Prism。"
         },
-        "description": "安装分步指南。",
+        "description": "手把手教您安装 Opal",
         "step3": {
           "title": "JVM 参数",
           "text": "将以下 JVM 参数添加到您的启动配置文件中（配置文件 → 编辑 → 设置 → Java 参数）："
         },
         "step4": {
           "title": "启动",
-          "text": "启动 Opal。系统将提示您登录 Opal 帐户。"
+          "text": "启动 Opal, 首次启动可能会提示您登录 Opal 帐户。"
         }
       },
       "title": "客户端安装",
@@ -111,7 +111,7 @@
           "sodium": "钠(性能优化)",
           "accountSwitcherTooltip": "关联帐户后加入 Discord 以获取我们的定制版本",
           "accountSwitcher": "游戏内帐户切换器",
-          "badge": "建议拥有",
+          "badge": "建议安装",
           "title": "推荐",
           "viafabricplus": "版本切换器",
           "optiboxes": "自定义天空"
@@ -121,10 +121,10 @@
           "badge": "请勿使用"
         },
         "title": "模组",
-        "description": "兼容和不兼容的模组。",
+        "description": "兼容和不兼容的模组",
         "required": {
           "title": "必需",
-          "badge": "必须拥有"
+          "badge": "必须安装"
         },
         "unsupportedLaunchers": {
           "title": "不支持的启动器",
@@ -386,7 +386,7 @@
           "disabling": "禁用中..."
         },
         "description": "使用 TOTP 双重认证保护您的账户。",
-        "toast": "此功能尚未准备好！"
+        "toast": "此功能即将上线！"
       }
     }
   },
@@ -435,7 +435,7 @@
     "total": "总计"
   },
   "banner": {
-    "text": "节日特卖：使用优惠代码 HOLIDAY10 享受 10% 优惠，截止至 12 月 31 日"
+    "text": "节日特卖：使用优惠代码 HOLIDAY10 享受九折优惠，截止至 12 月 31 日"
   },
   "home": {
     "hero": {
@@ -492,12 +492,12 @@
         },
         "updates": {
           "title": "持续更新",
-          "description": "我们提供频繁的更新，帮助您通过新功能保持领先。"
+          "description": "我们提供频繁的更新，持续为您提供领先的新功能。"
         }
       }
     },
     "cta": {
-      "title": "提升您的 Minecraft 体验 ———— 从这里开始。",
+      "title": "提升您 Minecraft 体验的旅途\n从此处开启",
       "button": "立即购买"
     },
     "media": {
@@ -797,25 +797,25 @@
         "reseller": "经销商"
       },
       "hwid": {
-        "history": "硬件ID历史",
-        "resetSuccess": "硬件ID重置成功！",
+        "history": "HWID历史",
+        "resetSuccess": "HWID重置成功！",
         "bound": "已绑定",
         "notBound": "未绑定",
         "historyDialog": {
-          "title": "硬件ID历史",
-          "noHistory": "暂无硬件ID变更记录。",
-          "description": "{name} 的硬件ID变更记录",
-          "eventSet": "硬件ID设置",
-          "eventReset": "硬件ID重置"
+          "title": "HWID历史",
+          "noHistory": "暂无HWID变更记录。",
+          "description": "{name} 的HWID变更记录",
+          "eventSet": "HWID设置",
+          "eventReset": "HWID重置"
         },
-        "resetError": "重置硬件ID失败。",
+        "resetError": "重置HWID失败。",
         "resetConfirm": {
-          "title": "重置硬件ID",
+          "title": "重置HWID",
           "cancel": "取消",
-          "description": "确定要重置 {name} 的硬件ID吗？用户下次登录时需要重新验证。",
+          "description": "确定要重置 {name} 的HWID吗？用户下次登录时需要重新验证。",
           "confirm": "重置"
         },
-        "reset": "重置硬件ID"
+        "reset": "重置HWID"
       },
       "never": "从未",
       "pagination": {
@@ -939,7 +939,7 @@
     },
     "upgrade": {
       "title": "Opal 老用户？",
-      "description": "仅需 15.00 美元即可升级至 Terminus。请开票购买。"
+      "description": "仅需 15.00 USD 即可升级至 Terminus。请开票购买。"
     },
     "terminus": {
       "button": "购买 Terminus 捆绑包",
