@@ -49,14 +49,14 @@
         },
         "updates": {
           "title": "Частые обновления",
-          "description": "Мы обновляем наш чит как можно быстрее чтобы предоставлять  "
+          "description": "Мы обновляем наш чит как можно быстрее чтобы предоставлять лучший опыт использования среди других клиентов"
         },
         "compatibility": {
-          "title": "Universal compatibility",
-          "description": "Opal has been tested for compatibility on Windows, macOS, and Linux."
+          "title": "Универсальная совместимость",
+          "description": "Opal был протестирован на таких ОС как Windows, macOS, и Linux."
         },
         "trusted": {
-          "title": "Trusted by thousands",
+          "title": "Доверен тысячами",
           "description": "Opal is developed by leading developers who have worked on clients for years."
         },
         "quality": {
